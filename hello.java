@@ -5,7 +5,7 @@ class hello{
 		System.out.println("Hello World");
 		System.out.orintln("null null null");
 
-		System.out.println("Hello");
+		System.out.println("Hello  s as sssas ");
 	}
 
 }
