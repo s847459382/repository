@@ -6,6 +6,8 @@ class hello{
 		System.out.orintln("null null null");
 
 		System.out.println("Hello  s as sssas ");
+
+		System.out.println("你好，明天");
 	}
 
 }
